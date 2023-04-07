@@ -32,7 +32,6 @@ public class Dashboard extends javax.swing.JFrame {
         jPanel3 = new javax.swing.JPanel();
         jLabel2 = new javax.swing.JLabel();
         jLabelImage = new javax.swing.JPanel();
-        jLabel3 = new javax.swing.JLabel();
         jLabel4 = new javax.swing.JLabel();
         jLabel5 = new javax.swing.JLabel();
         jLabel6 = new javax.swing.JLabel();
@@ -41,7 +40,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner1 = new javax.swing.JSpinner();
         jCheckBox1 = new javax.swing.JCheckBox();
         jLabelImage1 = new javax.swing.JPanel();
-        jLabel9 = new javax.swing.JLabel();
         jLabel10 = new javax.swing.JLabel();
         jLabel11 = new javax.swing.JLabel();
         jLabel12 = new javax.swing.JLabel();
@@ -50,7 +48,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner2 = new javax.swing.JSpinner();
         jCheckBox2 = new javax.swing.JCheckBox();
         jLabelImage2 = new javax.swing.JPanel();
-        jLabel15 = new javax.swing.JLabel();
         jLabel16 = new javax.swing.JLabel();
         jLabel17 = new javax.swing.JLabel();
         jLabel18 = new javax.swing.JLabel();
@@ -59,7 +56,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner3 = new javax.swing.JSpinner();
         jCheckBox3 = new javax.swing.JCheckBox();
         jLabelImage3 = new javax.swing.JPanel();
-        jLabel21 = new javax.swing.JLabel();
         jLabel22 = new javax.swing.JLabel();
         jLabel23 = new javax.swing.JLabel();
         jLabel24 = new javax.swing.JLabel();
@@ -68,7 +64,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner4 = new javax.swing.JSpinner();
         jCheckBox4 = new javax.swing.JCheckBox();
         jLabelImage4 = new javax.swing.JPanel();
-        jLabel27 = new javax.swing.JLabel();
         jLabel28 = new javax.swing.JLabel();
         jLabel29 = new javax.swing.JLabel();
         jLabel30 = new javax.swing.JLabel();
@@ -77,7 +72,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner5 = new javax.swing.JSpinner();
         jCheckBox5 = new javax.swing.JCheckBox();
         jLabelImage5 = new javax.swing.JPanel();
-        jLabel33 = new javax.swing.JLabel();
         jLabel34 = new javax.swing.JLabel();
         jLabel35 = new javax.swing.JLabel();
         jLabel36 = new javax.swing.JLabel();
@@ -86,7 +80,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner6 = new javax.swing.JSpinner();
         jCheckBox6 = new javax.swing.JCheckBox();
         jLabelImage6 = new javax.swing.JPanel();
-        jLabel39 = new javax.swing.JLabel();
         jLabel40 = new javax.swing.JLabel();
         jLabel41 = new javax.swing.JLabel();
         jLabel42 = new javax.swing.JLabel();
@@ -95,7 +88,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner7 = new javax.swing.JSpinner();
         jCheckBox7 = new javax.swing.JCheckBox();
         jLabelImage7 = new javax.swing.JPanel();
-        jLabel45 = new javax.swing.JLabel();
         jLabel46 = new javax.swing.JLabel();
         jLabel47 = new javax.swing.JLabel();
         jLabel48 = new javax.swing.JLabel();
@@ -104,7 +96,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner8 = new javax.swing.JSpinner();
         jCheckBox8 = new javax.swing.JCheckBox();
         jLabelImage8 = new javax.swing.JPanel();
-        jLabel51 = new javax.swing.JLabel();
         jLabel52 = new javax.swing.JLabel();
         jLabel53 = new javax.swing.JLabel();
         jLabel54 = new javax.swing.JLabel();
@@ -113,7 +104,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner9 = new javax.swing.JSpinner();
         jCheckBox9 = new javax.swing.JCheckBox();
         jLabelImage9 = new javax.swing.JPanel();
-        jLabel57 = new javax.swing.JLabel();
         jLabel58 = new javax.swing.JLabel();
         jLabel59 = new javax.swing.JLabel();
         jLabel60 = new javax.swing.JLabel();
@@ -122,7 +112,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner10 = new javax.swing.JSpinner();
         jCheckBox10 = new javax.swing.JCheckBox();
         jLabelImage10 = new javax.swing.JPanel();
-        jLabel63 = new javax.swing.JLabel();
         jLabel64 = new javax.swing.JLabel();
         jLabel65 = new javax.swing.JLabel();
         jLabel66 = new javax.swing.JLabel();
@@ -131,7 +120,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner11 = new javax.swing.JSpinner();
         jCheckBox11 = new javax.swing.JCheckBox();
         jLabelImage11 = new javax.swing.JPanel();
-        jLabel69 = new javax.swing.JLabel();
         jLabel70 = new javax.swing.JLabel();
         jLabel71 = new javax.swing.JLabel();
         jLabel72 = new javax.swing.JLabel();
@@ -140,7 +128,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner12 = new javax.swing.JSpinner();
         jCheckBox12 = new javax.swing.JCheckBox();
         jLabelImage12 = new javax.swing.JPanel();
-        jLabel75 = new javax.swing.JLabel();
         jLabel76 = new javax.swing.JLabel();
         jLabel77 = new javax.swing.JLabel();
         jLabel78 = new javax.swing.JLabel();
@@ -149,7 +136,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner13 = new javax.swing.JSpinner();
         jCheckBox13 = new javax.swing.JCheckBox();
         jLabelImage13 = new javax.swing.JPanel();
-        jLabel81 = new javax.swing.JLabel();
         jLabel82 = new javax.swing.JLabel();
         jLabel83 = new javax.swing.JLabel();
         jLabel84 = new javax.swing.JLabel();
@@ -158,7 +144,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner14 = new javax.swing.JSpinner();
         jCheckBox14 = new javax.swing.JCheckBox();
         jLabelImage14 = new javax.swing.JPanel();
-        jLabel87 = new javax.swing.JLabel();
         jLabel88 = new javax.swing.JLabel();
         jLabel89 = new javax.swing.JLabel();
         jLabel90 = new javax.swing.JLabel();
@@ -167,7 +152,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner15 = new javax.swing.JSpinner();
         jCheckBox15 = new javax.swing.JCheckBox();
         jLabelImage15 = new javax.swing.JPanel();
-        jLabel93 = new javax.swing.JLabel();
         jLabel94 = new javax.swing.JLabel();
         jLabel95 = new javax.swing.JLabel();
         jLabel96 = new javax.swing.JLabel();
@@ -176,7 +160,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner16 = new javax.swing.JSpinner();
         jCheckBox16 = new javax.swing.JCheckBox();
         jLabelImage16 = new javax.swing.JPanel();
-        jLabel99 = new javax.swing.JLabel();
         jLabel100 = new javax.swing.JLabel();
         jLabel101 = new javax.swing.JLabel();
         jLabel102 = new javax.swing.JLabel();
@@ -185,7 +168,6 @@ public class Dashboard extends javax.swing.JFrame {
         jSpinner17 = new javax.swing.JSpinner();
         jCheckBox17 = new javax.swing.JCheckBox();
         jLabelImage17 = new javax.swing.JPanel();
-        jLabel105 = new javax.swing.JLabel();
         jLabel106 = new javax.swing.JLabel();
         jLabel107 = new javax.swing.JLabel();
         jLabel108 = new javax.swing.JLabel();
@@ -232,9 +214,6 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel2.setText("Menu Items");
 
-        jLabel3.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel3.setText("Name:");
-
         jLabel4.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel4.setText("Price:");
 
@@ -244,7 +223,8 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel6.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel6.setText("Purchase:");
 
-        jLabel7.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
+        jLabel7.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel7.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel7.setText("Espresso");
 
         jLabel8.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
@@ -260,32 +240,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage.setLayout(jLabelImageLayout);
         jLabelImageLayout.setHorizontalGroup(
             jLabelImageLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImageLayout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImageLayout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImageLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel5, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel6, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImageLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImageLayout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImageLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel7, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel8, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel8, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner1, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImageLayout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox1)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel7, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImageLayout.setVerticalGroup(
             jLabelImageLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImageLayout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImageLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel3)
-                    .addComponent(jLabel7))
+                .addComponent(jLabel7)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImageLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel4)
@@ -301,9 +278,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel9.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel9.setText("Name:");
-
         jLabel10.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel10.setText("Price:");
 
@@ -313,11 +287,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel12.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel12.setText("Purchase:");
 
-        jLabel13.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel13.setText("Espresso");
+        jLabel13.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel13.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel13.setText("Chocolate Coffee");
 
         jLabel14.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel14.setText("2.50lv");
+        jLabel14.setText("3.00lv");
 
         jCheckBox2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -329,32 +304,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage1.setLayout(jLabelImage1Layout);
         jLabelImage1Layout.setHorizontalGroup(
             jLabelImage1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage1Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage1Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel11, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel10, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel9, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel12, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage1Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel13, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel14, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel14, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner2, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage1Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox2)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel13, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage1Layout.setVerticalGroup(
             jLabelImage1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage1Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel9)
-                    .addComponent(jLabel13))
+                .addComponent(jLabel13)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel10)
@@ -370,9 +342,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel15.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel15.setText("Name:");
-
         jLabel16.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel16.setText("Price:");
 
@@ -382,11 +351,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel18.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel18.setText("Purchase:");
 
-        jLabel19.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel19.setText("Espresso");
+        jLabel19.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel19.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel19.setText("Green Tea");
 
         jLabel20.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel20.setText("2.50lv");
+        jLabel20.setText("1.40lv");
 
         jCheckBox3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -398,32 +368,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage2.setLayout(jLabelImage2Layout);
         jLabelImage2Layout.setHorizontalGroup(
             jLabelImage2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage2Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage2Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel17, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel16, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel15, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel18, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage2Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel19, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel20, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel20, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner3, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage2Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox3)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel19, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage2Layout.setVerticalGroup(
             jLabelImage2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage2Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel15)
-                    .addComponent(jLabel19))
+                .addComponent(jLabel19)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel16)
@@ -439,9 +406,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel21.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel21.setText("Name:");
-
         jLabel22.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel22.setText("Price:");
 
@@ -451,11 +415,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel24.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel24.setText("Purchase:");
 
-        jLabel25.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel25.setText("Espresso");
+        jLabel25.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel25.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel25.setText("Mineral Water");
 
         jLabel26.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel26.setText("2.50lv");
+        jLabel26.setText("1.00lv");
 
         jCheckBox4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -467,32 +432,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage3.setLayout(jLabelImage3Layout);
         jLabelImage3Layout.setHorizontalGroup(
             jLabelImage3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage3Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage3Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel23, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel22, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel21, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel24, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage3Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel25, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel26, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel26, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner4, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage3Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox4)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel25, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage3Layout.setVerticalGroup(
             jLabelImage3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage3Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel21)
-                    .addComponent(jLabel25))
+                .addComponent(jLabel25)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel22)
@@ -508,9 +470,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel27.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel27.setText("Name:");
-
         jLabel28.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel28.setText("Price:");
 
@@ -520,11 +479,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel30.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel30.setText("Purchase:");
 
-        jLabel31.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel31.setText("Espresso");
+        jLabel31.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel31.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel31.setText("Sparkling Water");
 
         jLabel32.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel32.setText("2.50lv");
+        jLabel32.setText("1.20lv");
 
         jCheckBox5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -541,27 +501,24 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGroup(jLabelImage4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel29, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel28, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel27, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel30, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage4Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel31, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel32, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel32, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner5, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage4Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox5)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel31, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage4Layout.setVerticalGroup(
             jLabelImage4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage4Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel27)
-                    .addComponent(jLabel31))
+                .addComponent(jLabel31)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel28)
@@ -577,9 +534,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel33.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel33.setText("Name:");
-
         jLabel34.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel34.setText("Price:");
 
@@ -589,11 +543,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel36.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel36.setText("Purchase:");
 
-        jLabel37.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel37.setText("Espresso");
+        jLabel37.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel37.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel37.setText("Cappuccino");
 
         jLabel38.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel38.setText("2.50lv");
+        jLabel38.setText("3.00lv");
 
         jCheckBox6.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -605,32 +560,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage5.setLayout(jLabelImage5Layout);
         jLabelImage5Layout.setHorizontalGroup(
             jLabelImage5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage5Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage5Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel35, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel34, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel33, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel36, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage5Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel37, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel38, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel38, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner6, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage5Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox6)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel37, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage5Layout.setVerticalGroup(
             jLabelImage5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage5Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel33)
-                    .addComponent(jLabel37))
+                .addComponent(jLabel37)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel34)
@@ -646,9 +598,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel39.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel39.setText("Name:");
-
         jLabel40.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel40.setText("Price:");
 
@@ -658,11 +607,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel42.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel42.setText("Purchase:");
 
-        jLabel43.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel43.setText("Espresso");
+        jLabel43.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel43.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel43.setText("Nestea");
 
         jLabel44.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel44.setText("2.50lv");
+        jLabel44.setText("2.00lv");
 
         jCheckBox7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -674,32 +624,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage6.setLayout(jLabelImage6Layout);
         jLabelImage6Layout.setHorizontalGroup(
             jLabelImage6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage6Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage6Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel41, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel40, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel39, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel42, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage6Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel43, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel44, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel44, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner7, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage6Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox7)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel43, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage6Layout.setVerticalGroup(
             jLabelImage6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage6Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel39)
-                    .addComponent(jLabel43))
+                .addComponent(jLabel43)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel40)
@@ -715,9 +662,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel45.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel45.setText("Name:");
-
         jLabel46.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel46.setText("Price:");
 
@@ -727,11 +671,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel48.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel48.setText("Purchase:");
 
-        jLabel49.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel49.setText("Espresso");
+        jLabel49.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel49.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel49.setText("Coca Cola");
 
         jLabel50.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel50.setText("2.50lv");
+        jLabel50.setText("1.80lv");
 
         jCheckBox8.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -743,32 +688,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage7.setLayout(jLabelImage7Layout);
         jLabelImage7Layout.setHorizontalGroup(
             jLabelImage7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage7Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage7Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel47, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel46, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel45, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel48, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage7Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel49, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel50, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel50, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner8, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage7Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox8)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel49, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage7Layout.setVerticalGroup(
             jLabelImage7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage7Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel45)
-                    .addComponent(jLabel49))
+                .addComponent(jLabel49)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel46)
@@ -784,9 +726,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel51.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel51.setText("Name:");
-
         jLabel52.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel52.setText("Price:");
 
@@ -796,11 +735,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel54.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel54.setText("Purchase:");
 
-        jLabel55.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel55.setText("Espresso");
+        jLabel55.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel55.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel55.setText("Beer");
 
         jLabel56.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel56.setText("2.50lv");
+        jLabel56.setText("3.00lv");
 
         jCheckBox9.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -812,32 +752,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage8.setLayout(jLabelImage8Layout);
         jLabelImage8Layout.setHorizontalGroup(
             jLabelImage8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage8Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage8Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel53, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel52, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel51, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel54, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage8Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel55, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel56, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel56, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner9, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage8Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox9)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel55, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage8Layout.setVerticalGroup(
             jLabelImage8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage8Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel51)
-                    .addComponent(jLabel55))
+                .addComponent(jLabel55)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel52)
@@ -853,9 +790,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel57.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel57.setText("Name:");
-
         jLabel58.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel58.setText("Price:");
 
@@ -865,8 +799,9 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel60.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel60.setText("Purchase:");
 
-        jLabel61.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel61.setText("Espresso");
+        jLabel61.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel61.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel61.setText("Chocolate Milk");
 
         jLabel62.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel62.setText("2.50lv");
@@ -881,32 +816,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage9.setLayout(jLabelImage9Layout);
         jLabelImage9Layout.setHorizontalGroup(
             jLabelImage9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage9Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage9Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel59, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel58, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel57, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel60, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage9Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel61, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel62, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel62, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner10, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage9Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox10)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel61, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage9Layout.setVerticalGroup(
             jLabelImage9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage9Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel57)
-                    .addComponent(jLabel61))
+                .addComponent(jLabel61)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel58)
@@ -922,9 +854,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel63.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel63.setText("Name:");
-
         jLabel64.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel64.setText("Price:");
 
@@ -934,11 +863,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel66.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel66.setText("Purchase:");
 
-        jLabel67.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel67.setText("Espresso");
+        jLabel67.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel67.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel67.setText("Orange Juice");
 
         jLabel68.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel68.setText("2.50lv");
+        jLabel68.setText("2.30lv");
 
         jCheckBox11.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -950,32 +880,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage10.setLayout(jLabelImage10Layout);
         jLabelImage10Layout.setHorizontalGroup(
             jLabelImage10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage10Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage10Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel65, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel64, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel63, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel66, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage10Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel67, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel68, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel68, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner11, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage10Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox11)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel67, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage10Layout.setVerticalGroup(
             jLabelImage10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage10Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel63)
-                    .addComponent(jLabel67))
+                .addComponent(jLabel67)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel64)
@@ -991,9 +918,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel69.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel69.setText("Name:");
-
         jLabel70.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel70.setText("Price:");
 
@@ -1003,11 +927,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel72.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel72.setText("Purchase:");
 
-        jLabel73.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel73.setText("Espresso");
+        jLabel73.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel73.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel73.setText("7 UP");
 
         jLabel74.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel74.setText("2.50lv");
+        jLabel74.setText("1.80lv");
 
         jCheckBox12.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -1019,32 +944,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage11.setLayout(jLabelImage11Layout);
         jLabelImage11Layout.setHorizontalGroup(
             jLabelImage11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage11Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage11Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel71, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel70, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel69, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel72, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage11Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel73, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel74, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel74, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner12, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage11Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox12)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel73, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage11Layout.setVerticalGroup(
             jLabelImage11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage11Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel69)
-                    .addComponent(jLabel73))
+                .addComponent(jLabel73)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel70)
@@ -1060,9 +982,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel75.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel75.setText("Name:");
-
         jLabel76.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel76.setText("Price:");
 
@@ -1072,11 +991,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel78.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel78.setText("Purchase:");
 
-        jLabel79.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel79.setText("Espresso");
+        jLabel79.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel79.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel79.setText("Strawberry Cake");
 
         jLabel80.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel80.setText("2.50lv");
+        jLabel80.setText("11.80lv");
 
         jCheckBox13.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -1088,32 +1008,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage12.setLayout(jLabelImage12Layout);
         jLabelImage12Layout.setHorizontalGroup(
             jLabelImage12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage12Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage12Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel77, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel76, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel75, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel78, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage12Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel79, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel80, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel80, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner13, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage12Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox13)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel79, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage12Layout.setVerticalGroup(
             jLabelImage12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage12Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel75)
-                    .addComponent(jLabel79))
+                .addComponent(jLabel79)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel76)
@@ -1129,9 +1046,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel81.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel81.setText("Name:");
-
         jLabel82.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel82.setText("Price:");
 
@@ -1141,11 +1055,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel84.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel84.setText("Purchase:");
 
-        jLabel85.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel85.setText("Espresso");
+        jLabel85.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel85.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel85.setText("Chocolate Cake");
 
         jLabel86.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel86.setText("2.50lv");
+        jLabel86.setText("11.80lv");
 
         jCheckBox14.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -1157,32 +1072,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage13.setLayout(jLabelImage13Layout);
         jLabelImage13Layout.setHorizontalGroup(
             jLabelImage13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage13Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage13Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel83, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel82, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel81, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel84, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage13Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel85, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel86, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel86, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner14, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage13Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox14)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel85, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage13Layout.setVerticalGroup(
             jLabelImage13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage13Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel81)
-                    .addComponent(jLabel85))
+                .addComponent(jLabel85)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel82)
@@ -1198,9 +1110,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel87.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel87.setText("Name:");
-
         jLabel88.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel88.setText("Price:");
 
@@ -1210,11 +1119,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel90.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel90.setText("Purchase:");
 
-        jLabel91.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel91.setText("Espresso");
+        jLabel91.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel91.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel91.setText("Fruit Cake");
 
         jLabel92.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel92.setText("2.50lv");
+        jLabel92.setText("12.40lv");
 
         jCheckBox15.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -1226,32 +1136,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage14.setLayout(jLabelImage14Layout);
         jLabelImage14Layout.setHorizontalGroup(
             jLabelImage14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage14Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage14Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel89, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel88, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel87, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel90, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage14Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel91, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel92, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel92, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner15, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage14Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox15)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel91, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage14Layout.setVerticalGroup(
             jLabelImage14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage14Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel87)
-                    .addComponent(jLabel91))
+                .addComponent(jLabel91)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel88)
@@ -1267,9 +1174,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel93.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel93.setText("Name:");
-
         jLabel94.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel94.setText("Price:");
 
@@ -1279,11 +1183,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel96.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel96.setText("Purchase:");
 
-        jLabel97.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel97.setText("Espresso");
+        jLabel97.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel97.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel97.setText("Rainbow Cake");
 
         jLabel98.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel98.setText("2.50lv");
+        jLabel98.setText("14.90lv");
 
         jCheckBox16.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -1295,32 +1200,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage15.setLayout(jLabelImage15Layout);
         jLabelImage15Layout.setHorizontalGroup(
             jLabelImage15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage15Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage15Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel95, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel94, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel93, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel96, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage15Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel97, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel98, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel98, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner16, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage15Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox16)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel97, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage15Layout.setVerticalGroup(
             jLabelImage15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage15Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel93)
-                    .addComponent(jLabel97))
+                .addComponent(jLabel97)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel94)
@@ -1336,9 +1238,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel99.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel99.setText("Name:");
-
         jLabel100.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel100.setText("Price:");
 
@@ -1348,11 +1247,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel102.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel102.setText("Purchase:");
 
-        jLabel103.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel103.setText("Espresso");
+        jLabel103.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel103.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel103.setText("Vegetarian Pizza");
 
         jLabel104.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel104.setText("2.50lv");
+        jLabel104.setText("8.00lv");
 
         jCheckBox17.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -1364,32 +1264,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage16.setLayout(jLabelImage16Layout);
         jLabelImage16Layout.setHorizontalGroup(
             jLabelImage16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage16Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage16Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel101, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel100, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel99, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel102, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage16Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel103, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel104, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel104, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner17, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage16Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox17)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel103, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage16Layout.setVerticalGroup(
             jLabelImage16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage16Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel99)
-                    .addComponent(jLabel103))
+                .addComponent(jLabel103)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel100)
@@ -1405,9 +1302,6 @@ public class Dashboard extends javax.swing.JFrame {
                 .addGap(11, 11, 11))
         );
 
-        jLabel105.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel105.setText("Name:");
-
         jLabel106.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel106.setText("Price:");
 
@@ -1417,11 +1311,12 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel108.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel108.setText("Purchase:");
 
-        jLabel109.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel109.setText("Espresso");
+        jLabel109.setFont(new java.awt.Font("Yrsa Light", 1, 14)); // NOI18N
+        jLabel109.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel109.setText("Chicken Burger");
 
         jLabel110.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
-        jLabel110.setText("2.50lv");
+        jLabel110.setText("6.00lv");
 
         jCheckBox18.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -1433,32 +1328,29 @@ public class Dashboard extends javax.swing.JFrame {
         jLabelImage17.setLayout(jLabelImage17Layout);
         jLabelImage17Layout.setHorizontalGroup(
             jLabelImage17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLabelImage17Layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage17Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jLabelImage17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel107, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel106, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel105, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jLabel108, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE))
                 .addGroup(jLabelImage17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jLabelImage17Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addGroup(jLabelImage17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(jLabel109, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
-                            .addComponent(jLabel110, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel110, javax.swing.GroupLayout.DEFAULT_SIZE, 58, Short.MAX_VALUE)
                             .addComponent(jSpinner18, javax.swing.GroupLayout.PREFERRED_SIZE, 1, Short.MAX_VALUE)))
                     .addGroup(jLabelImage17Layout.createSequentialGroup()
                         .addGap(18, 18, 18)
                         .addComponent(jCheckBox18)))
                 .addGap(21, 21, 21))
+            .addComponent(jLabel109, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         jLabelImage17Layout.setVerticalGroup(
             jLabelImage17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jLabelImage17Layout.createSequentialGroup()
                 .addContainerGap(87, Short.MAX_VALUE)
-                .addGroup(jLabelImage17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel105)
-                    .addComponent(jLabel109))
+                .addComponent(jLabel109)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jLabelImage17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel106)
@@ -1842,7 +1734,6 @@ public class Dashboard extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel102;
     private javax.swing.JLabel jLabel103;
     private javax.swing.JLabel jLabel104;
-    private javax.swing.JLabel jLabel105;
     private javax.swing.JLabel jLabel106;
     private javax.swing.JLabel jLabel107;
     private javax.swing.JLabel jLabel108;
@@ -1852,99 +1743,82 @@ public class Dashboard extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel12;
     private javax.swing.JLabel jLabel13;
     private javax.swing.JLabel jLabel14;
-    private javax.swing.JLabel jLabel15;
     private javax.swing.JLabel jLabel16;
     private javax.swing.JLabel jLabel17;
     private javax.swing.JLabel jLabel18;
     private javax.swing.JLabel jLabel19;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel20;
-    private javax.swing.JLabel jLabel21;
     private javax.swing.JLabel jLabel22;
     private javax.swing.JLabel jLabel23;
     private javax.swing.JLabel jLabel24;
     private javax.swing.JLabel jLabel25;
     private javax.swing.JLabel jLabel26;
-    private javax.swing.JLabel jLabel27;
     private javax.swing.JLabel jLabel28;
     private javax.swing.JLabel jLabel29;
-    private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel30;
     private javax.swing.JLabel jLabel31;
     private javax.swing.JLabel jLabel32;
-    private javax.swing.JLabel jLabel33;
     private javax.swing.JLabel jLabel34;
     private javax.swing.JLabel jLabel35;
     private javax.swing.JLabel jLabel36;
     private javax.swing.JLabel jLabel37;
     private javax.swing.JLabel jLabel38;
-    private javax.swing.JLabel jLabel39;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel40;
     private javax.swing.JLabel jLabel41;
     private javax.swing.JLabel jLabel42;
     private javax.swing.JLabel jLabel43;
     private javax.swing.JLabel jLabel44;
-    private javax.swing.JLabel jLabel45;
     private javax.swing.JLabel jLabel46;
     private javax.swing.JLabel jLabel47;
     private javax.swing.JLabel jLabel48;
     private javax.swing.JLabel jLabel49;
     private javax.swing.JLabel jLabel5;
     private javax.swing.JLabel jLabel50;
-    private javax.swing.JLabel jLabel51;
     private javax.swing.JLabel jLabel52;
     private javax.swing.JLabel jLabel53;
     private javax.swing.JLabel jLabel54;
     private javax.swing.JLabel jLabel55;
     private javax.swing.JLabel jLabel56;
-    private javax.swing.JLabel jLabel57;
     private javax.swing.JLabel jLabel58;
     private javax.swing.JLabel jLabel59;
     private javax.swing.JLabel jLabel6;
     private javax.swing.JLabel jLabel60;
     private javax.swing.JLabel jLabel61;
     private javax.swing.JLabel jLabel62;
-    private javax.swing.JLabel jLabel63;
     private javax.swing.JLabel jLabel64;
     private javax.swing.JLabel jLabel65;
     private javax.swing.JLabel jLabel66;
     private javax.swing.JLabel jLabel67;
     private javax.swing.JLabel jLabel68;
-    private javax.swing.JLabel jLabel69;
     private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel70;
     private javax.swing.JLabel jLabel71;
     private javax.swing.JLabel jLabel72;
     private javax.swing.JLabel jLabel73;
     private javax.swing.JLabel jLabel74;
-    private javax.swing.JLabel jLabel75;
     private javax.swing.JLabel jLabel76;
     private javax.swing.JLabel jLabel77;
     private javax.swing.JLabel jLabel78;
     private javax.swing.JLabel jLabel79;
     private javax.swing.JLabel jLabel8;
     private javax.swing.JLabel jLabel80;
-    private javax.swing.JLabel jLabel81;
     private javax.swing.JLabel jLabel82;
     private javax.swing.JLabel jLabel83;
     private javax.swing.JLabel jLabel84;
     private javax.swing.JLabel jLabel85;
     private javax.swing.JLabel jLabel86;
-    private javax.swing.JLabel jLabel87;
     private javax.swing.JLabel jLabel88;
     private javax.swing.JLabel jLabel89;
-    private javax.swing.JLabel jLabel9;
     private javax.swing.JLabel jLabel90;
     private javax.swing.JLabel jLabel91;
     private javax.swing.JLabel jLabel92;
-    private javax.swing.JLabel jLabel93;
     private javax.swing.JLabel jLabel94;
     private javax.swing.JLabel jLabel95;
     private javax.swing.JLabel jLabel96;
     private javax.swing.JLabel jLabel97;
     private javax.swing.JLabel jLabel98;
-    private javax.swing.JLabel jLabel99;
     private javax.swing.JPanel jLabelImage;
     private javax.swing.JPanel jLabelImage1;
     private javax.swing.JPanel jLabelImage10;
