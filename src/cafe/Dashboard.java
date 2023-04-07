@@ -230,6 +230,8 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel8.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel8.setText("2.50lv");
 
+        jSpinner1.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+
         jCheckBox1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jCheckBox1ActionPerformed(evt);
@@ -293,6 +295,8 @@ public class Dashboard extends javax.swing.JFrame {
 
         jLabel14.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel14.setText("3.00lv");
+
+        jSpinner2.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
 
         jCheckBox2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -358,6 +362,8 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel20.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel20.setText("1.40lv");
 
+        jSpinner3.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+
         jCheckBox3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jCheckBox3ActionPerformed(evt);
@@ -421,6 +427,9 @@ public class Dashboard extends javax.swing.JFrame {
 
         jLabel26.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel26.setText("1.00lv");
+
+        jSpinner4.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner4.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
 
         jCheckBox4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -486,6 +495,9 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel32.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel32.setText("1.20lv");
 
+        jSpinner5.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner5.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
+
         jCheckBox5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jCheckBox5ActionPerformed(evt);
@@ -549,6 +561,8 @@ public class Dashboard extends javax.swing.JFrame {
 
         jLabel38.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel38.setText("3.00lv");
+
+        jSpinner6.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
 
         jCheckBox6.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -614,6 +628,9 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel44.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel44.setText("2.00lv");
 
+        jSpinner7.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner7.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
+
         jCheckBox7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jCheckBox7ActionPerformed(evt);
@@ -677,6 +694,9 @@ public class Dashboard extends javax.swing.JFrame {
 
         jLabel50.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel50.setText("1.80lv");
+
+        jSpinner8.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner8.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
 
         jCheckBox8.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -742,6 +762,9 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel56.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel56.setText("3.00lv");
 
+        jSpinner9.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner9.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
+
         jCheckBox9.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jCheckBox9ActionPerformed(evt);
@@ -805,6 +828,9 @@ public class Dashboard extends javax.swing.JFrame {
 
         jLabel62.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel62.setText("2.50lv");
+
+        jSpinner10.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner10.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
 
         jCheckBox10.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -870,6 +896,9 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel68.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel68.setText("2.30lv");
 
+        jSpinner11.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner11.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
+
         jCheckBox11.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jCheckBox11ActionPerformed(evt);
@@ -933,6 +962,9 @@ public class Dashboard extends javax.swing.JFrame {
 
         jLabel74.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel74.setText("1.80lv");
+
+        jSpinner12.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner12.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
 
         jCheckBox12.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -998,6 +1030,9 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel80.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel80.setText("11.80lv");
 
+        jSpinner13.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner13.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
+
         jCheckBox13.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jCheckBox13ActionPerformed(evt);
@@ -1061,6 +1096,9 @@ public class Dashboard extends javax.swing.JFrame {
 
         jLabel86.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel86.setText("11.80lv");
+
+        jSpinner14.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner14.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
 
         jCheckBox14.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -1126,6 +1164,9 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel92.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel92.setText("12.40lv");
 
+        jSpinner15.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner15.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
+
         jCheckBox15.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jCheckBox15ActionPerformed(evt);
@@ -1189,6 +1230,9 @@ public class Dashboard extends javax.swing.JFrame {
 
         jLabel98.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel98.setText("14.90lv");
+
+        jSpinner16.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner16.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
 
         jCheckBox16.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -1254,6 +1298,9 @@ public class Dashboard extends javax.swing.JFrame {
         jLabel104.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel104.setText("8.00lv");
 
+        jSpinner17.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner17.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
+
         jCheckBox17.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jCheckBox17ActionPerformed(evt);
@@ -1317,6 +1364,9 @@ public class Dashboard extends javax.swing.JFrame {
 
         jLabel110.setFont(new java.awt.Font("Yrsa Light", 0, 14)); // NOI18N
         jLabel110.setText("6.00lv");
+
+        jSpinner18.setFont(new java.awt.Font("Yrsa", 0, 14)); // NOI18N
+        jSpinner18.setModel(new javax.swing.SpinnerNumberModel(0, 0, 40, 1));
 
         jCheckBox18.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
